@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinoRunApp.CSharp", "DinoRunApp.CSharp.csproj", "{DAA6357A-9AC0-6FF8-3255-DD6E2C024E28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinoRunApp.CSharp.Editor", "DinoRunApp.CSharp.Editor.csproj", "{C49DD88D-C174-6894-3E13-2C9E96B42560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAA6357A-9AC0-6FF8-3255-DD6E2C024E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA6357A-9AC0-6FF8-3255-DD6E2C024E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA6357A-9AC0-6FF8-3255-DD6E2C024E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA6357A-9AC0-6FF8-3255-DD6E2C024E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C49DD88D-C174-6894-3E13-2C9E96B42560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C49DD88D-C174-6894-3E13-2C9E96B42560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C49DD88D-C174-6894-3E13-2C9E96B42560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C49DD88D-C174-6894-3E13-2C9E96B42560}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
